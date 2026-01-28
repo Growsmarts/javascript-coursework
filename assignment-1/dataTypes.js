@@ -1,5 +1,5 @@
 // This variable is for age being a number
-let age = 25;
+let age = 31;
 
 // This variable is a string holding my full name
 let fullName = "Jacob Madaras";
